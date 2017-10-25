@@ -1,0 +1,46 @@
+
+{
+  "catalog": [
+    {
+      "name": "Alaska Geological Map",
+      "type": "group",
+      "items": [
+        {
+          "name": "Generalized Geology polygons",
+          "type": "esri-mapServer",
+          "url": "https://www.sciencebase.gov/arcgis/rest/services/Catalog/58c22bbbe4b014cc3a3da30b/MapServer",
+          "layers": "13",
+          "isEnabled": true
+        },
+        {
+          "name": "Detailed Geology polygons",
+          "type": "esri-mapServer",
+          "url": "https://www.sciencebase.gov/arcgis/rest/services/Catalog/58c22bbbe4b014cc3a3da30b/MapServer",
+          "layers": "22",
+          "isEnabled": true,
+          "isLegendVisible":false
+        }
+      ],
+      "isOpen": true
+    }
+  ],
+  "corsDomains": [
+    "sciencebase.gov",
+    "corsproxy.com"
+  ],
+    "initialCamera": {
+    "west": -154.47081370130456,
+    "east": -140.1702524470959,
+    "north": 63.654356255141536,
+    "south": 57.252224232856754
+  },
+    "homeCamera": {
+    "west": -175,
+    "east": -135,
+    "north": 72,
+    "south": 55
+  },
+  "baseMapName": "Bing Maps Roads",
+  "initialViewerMode": "2d",
+  "services": []
+}
