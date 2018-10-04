@@ -4,4 +4,4 @@ JSON configuration files for TerriaMaps
 View raw content, copy path, append to:
 https://viewer.nationalmap.gov/advanced/terriajs-usgs
 
-eg: https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/AKGeology1.json
+eg: https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&proxy/_60s/https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/AKGeology1.json
