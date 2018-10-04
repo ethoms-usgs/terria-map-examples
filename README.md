@@ -2,7 +2,7 @@
 JSON configuration files for TerriaMaps
 
 View raw content, copy path, append to:\
-https://viewer.nationalmap.gov/advanced/terriajs-usgs\
+https://viewer.nationalmap.gov/advanced/terriajs-usgs \
 use '#' at end of map url
 
 Using The National Map viewer:\
