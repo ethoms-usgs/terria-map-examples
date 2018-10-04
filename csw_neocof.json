@@ -12,7 +12,8 @@
 	}],
 	"corsDomains": [
 		"sciencebase.gov",
-		"corsproxy.com"
+		"corsproxy.com",
+		"data.ioos.us"
 	],
 	"homeCamera": {
 		"west": -75,
