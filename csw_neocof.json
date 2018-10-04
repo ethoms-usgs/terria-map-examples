@@ -16,5 +16,7 @@
     "east": -58,
     "north": 47,
     "south": 34
-  }
+  },
+  "baseMapName": "Bing Maps Roads",
+  "initialViewerMode": "2d",
 }
