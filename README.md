@@ -27,7 +27,7 @@ https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubu
 ScienceBase data release products AnyText=Alaska Science Center\
 https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/sb_datarelease_ASC.json
 
-ScienceBase data release products AnyText=Alaska Science Center and sb:collection=OGC-WFS\
+ScienceBase data release products AnyText=Alaska and sb:collection=OGC-WFS\
 trying to get results of:\
 https://www.sciencebase.gov/catalog/item/5474ec49e4b04d7459a7eab2/csw?service=CSW&version=2.0.2&request=getRecords&CQL_TEXT&constraint=AnyText=alaska&sb:servicetype=OGC-WFS
 
