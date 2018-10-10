@@ -15,10 +15,11 @@ Load Catalog group\
 https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/ASC_csw.json
 
 Load Catalog group without clean, keep TNM catalog\
-ASC Data Release backups with include CSV, KML, WMS, and ESRI MapServer set to true
+ASC Data Release backups with include CSV, KML, WMS, GeoJSON, and ESRI MapServer set to true
 https://viewer.nationalmap.gov/advanced/terriajs-usgs/#https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/ASC_csw.json
 
-
+ASC ASC Data Release backups with no service type filter, eg. all records\
+https://viewer.nationalmap.gov/advanced/terriajs-usgs/#https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/ASC_csw_notypefilter.json
 
 Load Catalog group: USGS Data Release Products on ScienceBase searching for AnyText=Alaska\
 https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/SB_Alaska_csw.json
