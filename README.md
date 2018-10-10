@@ -15,4 +15,4 @@ Load Catalog group
 https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/ASC_csw.json
 
 Load Catalog group: USGS Data Release Products on ScienceBase searching for AnyText=Alaska
-https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&proxy/_60s/https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/SB_Alaska_csw.json
+https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&proxy/\_60s/https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/SB_Alaska_csw.json
