@@ -23,3 +23,6 @@ https://viewer.nationalmap.gov/advanced/terriajs-usgs/#https://raw.githubusercon
 
 Load Catalog group: USGS Data Release Products on ScienceBase searching for AnyText=Alaska\
 https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/sb_datarelease_AK.json
+
+ScienceBase data release products AnyText=Alaska Science Center
+https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/sb_datarelease_ASC.json
