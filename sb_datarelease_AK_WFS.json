@@ -3,7 +3,7 @@
       "name": "CSW",
       "type": "group",
       "items": [{
-          "name": "ASC on ScienceBase",
+          "name": "ScienceBase + Alaska + WFS",
           "type": "csw",
           "includeCsv": true,
           "includeKml": true,
