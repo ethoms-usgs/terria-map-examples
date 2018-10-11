@@ -6,6 +6,7 @@
           "name": "ScienceBase + Alaska + WFS",
           "type": "csw",
           "isPromoted": true,
+          "isOpen": true,
           "includeCsv": true,
           "includeKml": true,
           "includeWms": true,
