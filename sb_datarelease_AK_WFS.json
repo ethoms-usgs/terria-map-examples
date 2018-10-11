@@ -1,6 +1,6 @@
 {
   "catalog": [{
-      "name": "CSW",
+      "name": "ScienceBase",
       "type": "group",
       "items": [{
           "name": "ScienceBase + Alaska + WFS",
