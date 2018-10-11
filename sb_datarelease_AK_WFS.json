@@ -5,6 +5,7 @@
       "items": [{
           "name": "ScienceBase + Alaska + WFS",
           "type": "csw",
+          "isPromoted": true,
           "includeCsv": true,
           "includeKml": true,
           "includeWms": true,
