@@ -9,8 +9,10 @@
 				"name": " Alaska Digital Geologic Map",
 				"type": "esri-mapServer",
 				"url": "https://www.sciencebase.gov/arcgis/rest/services/Catalog/58c22bbbe4b014cc3a3da30b/MapServer",
-				"layers": "8,14,17"
-			}],
+				"layers": "8"
+			}]
+		},
+		{
 			"name": "Energy",
 			"Type": "group",
 			"items": [{
