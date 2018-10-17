@@ -22,13 +22,13 @@
 					"name": "Basins by age",
 					"type": "esri-mapServer",
 					"url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer",
-					"layers": 1
+					"layers": "1"
 				},
 				{
 					"name": "Indicationsofpetroleum",
 					"type": "esri-mapServer",
 					"url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer",
-					"layers": 0
+					"layers": "0"
 				}]
 			}]
 		}]
