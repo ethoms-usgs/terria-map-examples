@@ -1,23 +1,33 @@
 {
 	"catalog": [{
-		"name": "Alaska Geological Map",
+		"name": "Alaska Earth Model",
 		"type": "group",
 		"items": [{
-			"name": "Alaska Earth Model",
+			"name": "Framework Geology",
 			"type": "group",
 			"items": [{
-				"name": "Framework Geology",
-				"type": "group",
-				"items": [{
-					"name": " Alaska Digital Geologic Map",
-					"type": "esri-mapServer",
-					"url": "https://www.sciencebase.gov/arcgis/rest/services/Catalog/58c22bbbe4b014cc3a3da30b/MapServer",
-					"layers": "8,14,17",
-					"isEnabled": true
-				},
-				{
-					"name": "Alaska Fossil Database"
-				}]
+				"name": " Alaska Digital Geologic Map",
+				"type": "esri-mapServer",
+				"url": "https://www.sciencebase.gov/arcgis/rest/services/Catalog/58c22bbbe4b014cc3a3da30b/MapServer",
+				"layers": "8,14,17"
+			}]
+		}],
+		"name": "Energy",
+		"Type": "group",
+		"items": [{
+			"name": "Sedimentary Basins",
+			"type": "group",
+			"items": [{
+				"name": "Basins by age",
+				"type": "esri-mapServer",
+				"url": "https: //gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer",
+				"layers": 1
+			},
+			{
+				"name": "Indicationsofpetroleum",
+				"type": "esri-mapServer",
+				"url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer",
+				"layers": 0
 			}]
 		}]
 	}],
