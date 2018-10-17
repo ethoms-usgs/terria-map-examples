@@ -21,7 +21,7 @@
 				"items": [{
 					"name": "Basins by age",
 					"type": "esri-mapServer",
-					"url": "https: //gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer",
+					"url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer",
 					"layers": 1
 				},
 				{
