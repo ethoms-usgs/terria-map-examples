@@ -29,8 +29,7 @@
 					"type": "esri-mapServer",
 					"url": "https://gis.usgs.gov/sciencebase2/rest/services/catalog/5bc67c52e4b0fc368ebbf2e4/mapserver",
 					"layers": "0"
-				}],
-				"legendUrl": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer/legend"
+				}]
 			}]
 		}]
 	}],
