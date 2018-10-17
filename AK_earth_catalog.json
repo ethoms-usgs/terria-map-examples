@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Energy",
-			"Type": "group",
+			"type": "group",
 			"items": [{
 				"name": "Sedimentary Basins",
 				"type": "group",
