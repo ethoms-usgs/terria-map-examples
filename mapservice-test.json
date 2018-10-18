@@ -1,0 +1,36 @@
+{
+  "catalog": [{
+      "name": "CSW",
+      "type": "group",
+      "items": [{
+          "name": "Map Service test",
+          "type": "csw",
+          "includeCsv": true,
+          "includeKml": true,
+          "includeWms": true,
+          "includeESRIMapServer": true,
+          "includeGeoJson": true,
+          "url": "https://www.sciencebase.gov/catalog/item/5ade448ce4b0e2c2dd2b8355/csw",
+          "getRecordsTemplate": "<csw:GetRecords xmlns:csw=\"http://www.opengis.net/cat/csw/2.0.2\" xmlns:ows=\"http://www.opengis.net/ows\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" outputSchema=\"http://www.opengis.net/cat/csw/2.0.2\" outputFormat=\"application/xml\" version=\"2.0.2\" service=\"CSW\" resultType=\"results\" startPosition=\"{startPosition}\" maxRecords=\"1000\" xsi:schemaLocation=\"http://www.opengis.net/cat/csw/2.0.2 http://schemas.opengis.net/csw/2.0.2/CSW-discovery.xsd\"><csw:Query typeNames=\"csw:Record\"><csw:ElementSetName>full</csw:ElementSetName></csw:Query></csw:GetRecords>"
+          }]
+    }],
+  "corsDomains": [
+    "sciencebase.gov",
+    "corsproxy.com"
+  ],
+    "initialCamera": {
+    "west": -154.47081370130456,
+    "east": -140.1702524470959,
+    "north": 63.654356255141536,
+    "south": 57.252224232856754
+  },
+    "homeCamera": {
+    "west": -175,
+    "east": -135,
+    "north": 72,
+    "south": 55
+  },
+  "baseMapName": "Bing Maps Roads",
+  "initialViewerMode": "2d",
+  "services": []
+}
