@@ -10,7 +10,7 @@
           "includeWms": "true",
           "includeESRIMapServer": "true",
           "includeGeoJson": "true",
-          "url": "https://www.sciencebase.gov/catalog/item/587fcaf8e4b085de6c11f4de/csw",
+          "url": "https://www.sciencebase.gov/catalog/item/57bf650ce4b0f2f0ceb75bdc/csw",
           "getRecordsTemplate": "<csw:GetRecords xmlns:csw=\"http://www.opengis.net/cat/csw/2.0.2\" xmlns:ows=\"http://www.opengis.net/ows\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" outputSchema=\"http://www.opengis.net/cat/csw/2.0.2\" outputFormat=\"application/xml\" version=\"2.0.2\" service=\"CSW\" resultType=\"results\" startPosition=\"{startPosition}\" maxRecords=\"1000\" xsi:schemaLocation=\"http://www.opengis.net/cat/csw/2.0.2 http://schemas.opengis.net/csw/2.0.2/CSW-discovery.xsd\"><csw:Query typeNames=\"csw:Record\"><csw:ElementSetName>full</csw:ElementSetName></csw:Query></csw:GetRecords>"
           }]
     }],
