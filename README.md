@@ -35,3 +35,6 @@ https://viewer.nationalmap.gov/advanced/terriajs-usgs/#https://raw.githubusercon
 
 Alaska Earth Model catalog\
 https://viewer.nationalmap.gov/advanced/terriajs-usgs/#https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/AK_earth_catalog.json
+
+TNM item on ScienceBase, CSW query all records
+https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/TNM_csw.json
