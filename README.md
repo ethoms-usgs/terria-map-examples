@@ -38,3 +38,6 @@ https://viewer.nationalmap.gov/advanced/terriajs-usgs/#https://raw.githubusercon
 
 TNM item on ScienceBase, CSW query all records\
 https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/TNM_csw.json
+
+Map service test\
+https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/mapservice-test.json
