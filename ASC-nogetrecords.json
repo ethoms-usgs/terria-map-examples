@@ -1,0 +1,30 @@
+{
+  "catalog": [{
+      "name": "CSW",
+      "type": "group",
+      "items": [{
+          "name": "ASC on ScienceBase",
+          "type": "csw",
+          "url": "https://www.sciencebase.gov/catalog/item/56b3ee22e4b0cc79997fb64b/csw"
+          }]
+    }],
+  "corsDomains": [
+    "sciencebase.gov",
+    "corsproxy.com"
+  ],
+    "initialCamera": {
+    "west": -154.47081370130456,
+    "east": -140.1702524470959,
+    "north": 63.654356255141536,
+    "south": 57.252224232856754
+  },
+    "homeCamera": {
+    "west": -175,
+    "east": -135,
+    "north": 72,
+    "south": 55
+  },
+  "baseMapName": "Bing Maps Roads",
+  "initialViewerMode": "2d",
+  "services": []
+}
