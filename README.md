@@ -41,3 +41,6 @@ https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubu
 
 Map service test\
 https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/mapservice-test.json
+
+ASC on ScienceBase with no GetRecordsTemplate \
+https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/ASC-nogetrecords.json
