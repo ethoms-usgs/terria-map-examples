@@ -49,3 +49,6 @@ https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubu
 
 Australia national map:
 http://nationalmap.gov.au/#https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/mapservice-test.json
+
+CSV test: \
+https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/csvtest.json
