@@ -7,7 +7,7 @@
           "type": "csw",
           "includeCsv": true,
           "includeKml": true,
-          "includeWms": true,
+          "includeWms": false,
           "includeESRIMapServer": true,
           "includeGeoJson": "true",
           "url": "https://www.sciencebase.gov/catalog/item/57bf5e1ee4b0f2f0ceb75b75/csw",
