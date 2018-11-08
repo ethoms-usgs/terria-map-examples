@@ -5,7 +5,7 @@ View raw content, copy path, append to:\
 https://viewer.nationalmap.gov/advanced/terriajs-usgs \
 
 ASC ScienceBase data backup data catalog
-https://viewer.nationalmap.gov/advanced/terriajs-usgs#
+https://viewer.nationalmap.gov/advanced/terriajs-usgs#https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/ASC_groups.json
 use '#' at end of map url
 
 Using The National Map viewer:\
