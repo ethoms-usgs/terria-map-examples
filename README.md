@@ -14,4 +14,4 @@ Cleaning the hosted data catalog first using 'clean'\
 https://viewer.nationalmap.gov/advanced/terriajs-usgs/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/AKGeology1.json
 
 Alaska Earth Model catalog\
-http://10.12.29.188/#https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/AK_earth_catalog.json
+http://10.12.29.188#https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/AK_earth_catalog.json
