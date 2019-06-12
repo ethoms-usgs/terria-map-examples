@@ -1,7 +1,7 @@
 {
 	"catalog": [{
 		"name": "Alaska Earth Model",
-		"isPromoted: "true",
+		"isPromoted": "true",
 		"type": "group",
 		"items": [{
 			"name": "Framework Geology",
