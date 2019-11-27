@@ -39,7 +39,7 @@
     "north": 72,
     "south": 55
   },
-  "baseMapName": "Bing Maps Roads",
+  "baseMapName": "USGS Topo",
   "initialViewerMode": "2d",
   "services": []
 }
