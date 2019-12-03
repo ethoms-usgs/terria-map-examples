@@ -15,7 +15,7 @@ Cleaning the hosted data catalog first using 'clean'\
 http://maps.usgs.gov/map/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/AKGeology1.json
 
 Alaska Earth Model catalog\
-http://10.12.29.188#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/AK_earth_catalog.json
+http://maps.usgs.gov/map/#clean&https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/AEM_groups.json
 
 ASC Catalog:
 http://maps.usgs.gov/map#https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/ASC_groups.json
