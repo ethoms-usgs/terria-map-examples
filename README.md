@@ -4,6 +4,9 @@ JSON configuration files for TerriaMaps
 Basic viewer at http://maps.usgs.gov/map
 CDI Risk Map for now http://10.12.29.188
 
+Handbuilt AEM catalog file
+http://maps.usgs.gov/map/#https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/AEM_catalog_handbuilt.json
+
 ASC ScienceBase data backup data catalog
 http://maps.usgs.gov/map/#https://raw.githubusercontent.com/ethoms-usgs/terria-map-examples/master/ASC_groups.json
 use '#' at end of map url
