@@ -33,7 +33,8 @@
             {
               "name": "Sedimentary basins, surface thermal maturity, and indications of petroleum",
               "type": "esri-mapServer-group",
-              "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer"
+              "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer",
+              "items": []
             }
           ]
         },
