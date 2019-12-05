@@ -108,5 +108,6 @@
     "south": 55
   },
   "baseMapName": "USGS Topo",
-  "initialViewerMode": "2d"
+  "initialViewerMode": "2d",
+  "services": []
 }
