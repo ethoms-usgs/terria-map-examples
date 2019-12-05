@@ -32,9 +32,21 @@
           "items": [
             {
               "name": "Sedimentary basins, surface thermal maturity, and indications of petroleum",
-              "type": "esri-mapServer-group",
-              "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer",
-              "_nameInCatalog": "Sedimentary basins, surface thermal maturity, and indications of petroleum"
+              "type": "group",
+              "items": [
+                {
+                  "name": "Indications of petroleum",
+                  "type": "esri-mapServer",
+                  "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer",
+                  "layers": "0"
+                },
+                {
+                  "name": "Sedimentary basins by age",
+                  "type": "esri-mapServer",
+                  "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer",
+                  "layers": "1"
+                }
+              ]
             }
           ]
         },
