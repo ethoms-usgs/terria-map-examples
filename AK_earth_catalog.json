@@ -31,15 +31,9 @@
           "type": "group",
           "items": [
             {
-              "name": "Maps showing sedimentary basins, surface thermal maturity, and indications of petroleum in the Central  Alaska  Province",
-              "type": "group",
-              "items": [
-                {
-                  "name": "ArcGIS REST Service",
-                  "type": "esri-mapServer",
-                  "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer"
-                }
-              ]
+              "name": "Sedimentary basins, surface thermal maturity, and indications of petroleum",
+              "type": "esri-mapServer-group",
+              "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc67c52e4b0fc368ebbf2e4/MapServer"
             }
           ]
         },
@@ -50,8 +44,8 @@
             {
               "name": "Alaska  State  Map",
               "type": "esri-mapServer-group",
-              "items": [],
-              "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5dddd81ae4b04a30051ad448/MapServer"
+              "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5dddd81ae4b04a30051ad448/MapServer",
+              "items": []
             }
           ]
         },
