@@ -107,6 +107,6 @@
     "north": 72,
     "south": 55
   },
-  "baseMapName": "US Topo",
+  "baseMapName": "USGS Topo",
   "initialViewerMode": "2d"
 }
